@@ -20,3 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil280599&" alt="sahil280599" /></p>
 
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=e2bb8rugbtmzyvrzerykseyj3&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=e2bb8rugbtmzyvrzerykseyj3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
+
