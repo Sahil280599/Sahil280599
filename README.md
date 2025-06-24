@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sahil Tripathi</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development+in+Test" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development+in+Test;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil280599&label=Profile%20views&color=0e75b6&style=flat" alt="sahil280599" /> </p>
 
