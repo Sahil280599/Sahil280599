@@ -51,11 +51,14 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil280599&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil280599&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=sahil280599&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil280599&theme=tokyo-night" />
 </p>
 
 ---
